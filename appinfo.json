@@ -1,0 +1,24 @@
+{
+    "appKeys": {
+        "location": 0,
+        "searchingFor": 1
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "Patrick Catanzariti",
+    "longName": "Find Me Anything",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "Find Me Anything",
+    "uuid": "62472b52-0fe6-4729-a020-bfa87856bb09",
+    "versionCode": 1,
+    "versionLabel": "1.0.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
